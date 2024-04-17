@@ -43,7 +43,12 @@ body, html {
 }
 
 #icon-app {
+    width: 360px;
+    height: 360px;
     display: block;
+    background-image: url(/image/peach.png);
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .custom-button {
