@@ -47,3 +47,8 @@ window.onload = function() {
   window.addEventListener('resize', lockScroll);
   window.addEventListener('load', lockScroll);
 };
+
+document.getElementById("shareButton").addEventListener("click", function() {
+  var quoteContent = document.getElementById("quote").innerText;
+  document.querySelector('meta[property="og:description"]').setAttribute("content", quoteContent);
+});

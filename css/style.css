@@ -43,8 +43,8 @@ body, html {
 }
 
 #icon-app {
-    width: 360px;
-    height: 360px;
+    width: 230px;
+    height: 230px;
     display: block;
     background-image: url(/image/peach.png);
     background-position: center;
@@ -52,6 +52,7 @@ body, html {
 }
 
 .custom-button {
+    margin-top: 15px;
     display: block;
     width: 200px;
     height: 50px;
@@ -62,6 +63,11 @@ body, html {
     border: 2px solid #000;
     cursor: pointer;
     transition: 0.3s ease-in-out;
+}
+
+#shareButton {
+    margin-top: 15px;
+    transform: scale(1.1);
 }
 
 .custom-button:hover {
