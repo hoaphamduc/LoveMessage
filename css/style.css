@@ -102,3 +102,17 @@ span {
         width: 0;
     }
 }
+
+a {
+    height: 20px;
+    color: #000;
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+span {
+    margin-left: 5px;
+    vertical-align: middle;
+}
