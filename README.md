@@ -1,1 +1,1 @@
-Deploy at https://meobeo.netlify.app/
+Deploy at https://meobeoquotes.netlify.app/

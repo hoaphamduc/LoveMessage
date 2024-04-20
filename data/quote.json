@@ -1598,6 +1598,906 @@
         "id": 320,
         "quote": "Cuộc sống không phải là việc sống dựa trên quy tắc của người khác mà là việc tạo ra quy tắc của riêng mình.",
         "author": "Unknown"
+    },
+    {
+        "id": 321,
+        "quote": "Tình yêu không phải là sự nhìn nhận lỗi lầm, mà là sự bảo vệ và hiểu biết.",
+        "author": "Unknown"
+    },
+    {
+        "id": 322,
+        "quote": "Hãy sống mỗi ngày như thể đó là ngày cuối cùng của cuộc đời bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 323,
+        "quote": "Tôi không đổi mới đất trời, nhưng tôi có thể thay đổi cách mình nhìn nhận chúng.",
+        "author": "Unknown"
+    },
+    {
+        "id": 324,
+        "quote": "Tình yêu là sức mạnh, không phải sự yếu đuối. Đối diện với mọi thử thách, hãy dùng tình yêu để vượt qua.",
+        "author": "Unknown"
+    },
+    {
+        "id": 325,
+        "quote": "Hãy nắm lấy những khoảnh khắc, vì cuộc đời không đo lường bằng số lượng hơi thở, mà bằng những khoảnh khắc đã làm cho hơi thở của bạn ngừng lại.",
+        "author": "Unknown"
+    },
+    {
+        "id": 326,
+        "quote": "Đôi khi, bí mật của cuộc sống là không chạy theo thời gian, mà là hãy để thời gian chạy theo bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 327,
+        "quote": "Tình yêu không phải là điều mà bạn tìm kiếm. Nó là điều mà bạn xây dựng.",
+        "author": "Unknown"
+    },
+    {
+        "id": 328,
+        "quote": "Hãy nhớ rằng, mỗi ngày là một cơ hội mới để thay đổi cuộc đời của bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 329,
+        "quote": "Tình yêu không phải là điều dễ dàng nhưng nó luôn đáng giá.",
+        "author": "Unknown"
+    },
+    {
+        "id": 330,
+        "quote": "Cuộc sống là một chuỗi những sự thay đổi. Hãy dùng sự thay đổi này để trưởng thành và mạnh mẽ hơn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 331,
+        "quote": "Tình yêu không phải là vấn đề tìm kiếm người hoàn hảo, mà là vấn đề làm cho người bạn chọn trở thành người hoàn hảo.",
+        "author": "Unknown"
+    },
+    {
+        "id": 332,
+        "quote": "Hãy học từ quá khứ, sống trong hiện tại và hy vọng cho tương lai.",
+        "author": "Unknown"
+    },
+    {
+        "id": 333,
+        "quote": "Đừng bao giờ từ bỏ hy vọng, vì một ngày nào đó, hy vọng sẽ là người duy nhất đưa bạn đến nơi bạn muốn đến.",
+        "author": "Unknown"
+    },
+    {
+        "id": 334,
+        "quote": "Tình yêu là ngôn ngữ mà cả thế giới đều hiểu.",
+        "author": "Unknown"
+    },
+    {
+        "id": 335,
+        "quote": "Sự bình yên không phải là điều bạn tìm kiếm. Nó là điều bạn tạo ra trong tâm hồn của mình.",
+        "author": "Unknown"
+    },
+    {
+        "id": 336,
+        "quote": "Không có con đường nào dẫn đến hạnh phúc. Hạnh phúc là con đường.",
+        "author": "Unknown"
+    },
+    {
+        "id": 337,
+        "quote": "Cuộc sống là một bức tranh, bạn là nghệ sĩ tạo ra nó.",
+        "author": "Unknown"
+    },
+    {
+        "id": 338,
+        "quote": "Tình yêu là điều duy nhất trên thế giới này có thể so sánh với ánh sáng của mặt trời: nó chiếu sáng mọi ngóc ngách, dẫn dắt mọi con đường và đưa ra niềm hy vọng trong tâm hồn của mọi người.",
+        "author": "Unknown"
+    },
+    {
+        "id": 339,
+        "quote": "Hãy để tình yêu và sự hiểu biết lan tỏa như ánh sáng của mặt trời, làm ấm lòng và chiếu sáng cho mọi người xung quanh.",
+        "author": "Unknown"
+    },
+    {
+        "id": 340,
+        "quote": "Sự bí mật của cuộc sống không phải là tìm kiếm hạnh phúc mà là hãy học cách làm hạnh phúc từ những gì bạn có.",
+        "author": "Unknown"
+    },
+    {
+        "id": 341,
+        "quote": "Tình yêu không nhất thiết phải hoàn hảo, nhưng nó phải là thứ duy nhất mà bạn muốn giữ lấy khi bạn thấy nó không còn đủ hoàn hảo.",
+        "author": "Unknown"
+    },
+    {
+        "id": 342,
+        "quote": "Hãy sống mỗi ngày như cuộc đời của bạn đáng giá được sống.",
+        "author": "Unknown"
+    },
+    {
+        "id": 343,
+        "quote": "Tình yêu là nơi mà bạn tìm thấy bình yên và hạnh phúc.",
+        "author": "Unknown"
+    },
+    {
+        "id": 344,
+        "quote": "Hãy tin vào tình yêu ở mỗi bước đi, vì nó là nguồn sức mạnh để vượt qua mọi khó khăn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 345,
+        "quote": "Cuộc sống không phải là những thứ chúng ta đã sống qua, mà là những thứ chúng ta sẽ nhớ mãi.",
+        "author": "Unknown"
+    },
+    {
+        "id": 346,
+        "quote": "Tình yêu là khi bạn chia sẻ mọi điều, kể cả những điều nhỏ nhặt nhất.",
+        "author": "Unknown"
+    },
+    {
+        "id": 347,
+        "quote": "Hãy yêu cuộc sống của bạn. Dù cuộc đời không hoàn hảo nhưng nó vẫn là cuộc sống mà bạn được trải nghiệm.",
+        "author": "Unknown"
+    },
+    {
+        "id": 348,
+        "quote": "Đôi khi, bạn cần phải nhìn về phía sau để thấy những điều tốt đẹp đã diễn ra trong quá khứ và nhìn về phía trước để thấy những điều tốt đẹp sẽ đến trong tương lai.",
+        "author": "Unknown"
+    },
+    {
+        "id": 349,
+        "quote": "Tình yêu là khi bạn chấp nhận người khác với tất cả nhược điểm và tình yêu của mình.",
+        "author": "Unknown"
+    },
+    {
+        "id": 350,
+        "quote": "Cuộc sống là những khoảnh khắc. Hãy làm cho mỗi khoảnh khắc của bạn đều trở nên đặc biệt.",
+        "author": "Unknown"
+    },
+    {
+        "id": 351,
+        "quote": "Tình yêu không phải là sự nhìn nhận lỗi lầm, mà là sự bảo vệ và hiểu biết.",
+        "author": "Unknown"
+    },
+    {
+        "id": 352,
+        "quote": "Hãy sống mỗi ngày như thể đó là ngày cuối cùng của cuộc đời bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 353,
+        "quote": "Tôi không đổi mới đất trời, nhưng tôi có thể thay đổi cách mình nhìn nhận chúng.",
+        "author": "Unknown"
+    },
+    {
+        "id": 354,
+        "quote": "Tình yêu là sức mạnh, không phải sự yếu đuối. Đối diện với mọi thử thách, hãy dùng tình yêu để vượt qua.",
+        "author": "Unknown"
+    },
+    {
+        "id": 355,
+        "quote": "Hãy nắm lấy những khoảnh khắc, vì cuộc đời không đo lường bằng số lượng hơi thở, mà bằng những khoảnh khắc đã làm cho hơi thở của bạn ngừng lại.",
+        "author": "Unknown"
+    },
+    {
+        "id": 356,
+        "quote": "Đôi khi, bí mật của cuộc sống là không chạy theo thời gian, mà là hãy để thời gian chạy theo bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 357,
+        "quote": "Tình yêu không phải là điều mà bạn tìm kiếm. Nó là điều mà bạn xây dựng.",
+        "author": "Unknown"
+    },
+    {
+        "id": 358,
+        "quote": "Hãy nhớ rằng, mỗi ngày là một cơ hội mới để thay đổi cuộc đời của bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 359,
+        "quote": "Tình yêu không phải là điều dễ dàng nhưng nó luôn đáng giá.",
+        "author": "Unknown"
+    },
+    {
+        "id": 360,
+        "quote": "Cuộc sống là một chuỗi những sự thay đổi. Hãy dùng sự thay đổi này để trưởng thành và mạnh mẽ hơn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 361,
+        "quote": "Tình yêu không phải là vấn đề tìm kiếm người hoàn hảo, mà là vấn đề làm cho người bạn chọn trở thành người hoàn hảo.",
+        "author": "Unknown"
+    },
+    {
+        "id": 362,
+        "quote": "Hãy học từ quá khứ, sống trong hiện tại và hy vọng cho tương lai.",
+        "author": "Unknown"
+    },
+    {
+        "id": 363,
+        "quote": "Đừng bao giờ từ bỏ hy vọng, vì một ngày nào đó, hy vọng sẽ là người duy nhất đưa bạn đến nơi bạn muốn đến.",
+        "author": "Unknown"
+    },
+    {
+        "id": 364,
+        "quote": "Tình yêu là ngôn ngữ mà cả thế giới đều hiểu.",
+        "author": "Unknown"
+    },
+    {
+        "id": 365,
+        "quote": "Sự bình yên không phải là điều bạn tìm kiếm. Nó là điều bạn tạo ra trong tâm hồn của mình.",
+        "author": "Unknown"
+    },
+    {
+        "id": 366,
+        "quote": "Không có con đường nào dẫn đến hạnh phúc. Hạnh phúc là con đường.",
+        "author": "Unknown"
+    },
+    {
+        "id": 367,
+        "quote": "Cuộc sống là một bức tranh, bạn là nghệ sĩ tạo ra nó.",
+        "author": "Unknown"
+    },
+    {
+        "id": 368,
+        "quote": "Tình yêu là điều duy nhất trên thế giới này có thể so sánh với ánh sáng của mặt trời: nó chiếu sáng mọi ngóc ngách, dẫn dắt mọi con đường và đưa ra niềm hy vọng trong tâm hồn của mọi người.",
+        "author": "Unknown"
+    },
+    {
+        "id": 369,
+        "quote": "Hãy để tình yêu và sự hiểu biết lan tỏa như ánh sáng của mặt trời, làm ấm lòng và chiếu sáng cho mọi người xung quanh.",
+        "author": "Unknown"
+    },
+    {
+        "id": 370,
+        "quote": "Sự bí mật của cuộc sống không phải là tìm kiếm hạnh phúc mà là hãy học cách làm hạnh phúc từ những gì bạn có.",
+        "author": "Unknown"
+    },
+    {
+        "id": 371,
+        "quote": "Tình yêu không nhất thiết phải hoàn hảo, nhưng nó phải là thứ duy nhất mà bạn muốn giữ lấy khi bạn thấy nó không còn đủ hoàn hảo.",
+        "author": "Unknown"
+    },
+    {
+        "id": 372,
+        "quote": "Hãy sống mỗi ngày như cuộc đời của bạn đáng giá được sống.",
+        "author": "Unknown"
+    },
+    {
+        "id": 373,
+        "quote": "Tình yêu là nơi mà bạn tìm thấy bình yên và hạnh phúc.",
+        "author": "Unknown"
+    },
+    {
+        "id": 374,
+        "quote": "Hãy tin vào tình yêu ở mỗi bước đi, vì nó là nguồn sức mạnh để vượt qua mọi khó khăn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 375,
+        "quote": "Cuộc sống không phải là những thứ chúng ta đã sống qua, mà là những thứ chúng ta sẽ nhớ mãi.",
+        "author": "Unknown"
+    },
+    {
+        "id": 376,
+        "quote": "Tình yêu là khi bạn chia sẻ mọi điều, kể cả những điều nhỏ nhặt nhất.",
+        "author": "Unknown"
+    },
+    {
+        "id": 377,
+        "quote": "Hãy yêu cuộc sống của bạn. Dù cuộc đời không hoàn hảo nhưng nó vẫn là cuộc sống mà bạn được trải nghiệm.",
+        "author": "Unknown"
+    },
+    {
+        "id": 378,
+        "quote": "Đôi khi, bạn cần phải nhìn về phía sau để thấy những điều tốt đẹp đã diễn ra trong quá khứ và nhìn về phía trước để thấy những điều tốt đẹp sẽ đến trong tương lai.",
+        "author": "Unknown"
+    },
+    {
+        "id": 379,
+        "quote": "Tình yêu là khi bạn chấp nhận người khác với tất cả nhược điểm và tình yêu của mình.",
+        "author": "Unknown"
+    },
+    {
+        "id": 380,
+        "quote": "Cuộc sống là những khoảnh khắc. Hãy làm cho mỗi khoảnh khắc của bạn đều trở nên đặc biệt.",
+        "author": "Unknown"
+    },
+    {
+        "id": 381,
+        "quote": "Tình yêu không phải là sự nhìn nhận lỗi lầm, mà là sự bảo vệ và hiểu biết.",
+        "author": "Unknown"
+    },
+    {
+        "id": 382,
+        "quote": "Hãy sống mỗi ngày như thể đó là ngày cuối cùng của cuộc đời bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 383,
+        "quote": "Tôi không đổi mới đất trời, nhưng tôi có thể thay đổi cách mình nhìn nhận chúng.",
+        "author": "Unknown"
+    },
+    {
+        "id": 384,
+        "quote": "Tình yêu là sức mạnh, không phải sự yếu đuối. Đối diện với mọi thử thách, hãy dùng tình yêu để vượt qua.",
+        "author": "Unknown"
+    },
+    {
+        "id": 385,
+        "quote": "Hãy nắm lấy những khoảnh khắc, vì cuộc đời không đo lường bằng số lượng hơi thở, mà bằng những khoảnh khắc đã làm cho hơi thở của bạn ngừng lại.",
+        "author": "Unknown"
+    },
+    {
+        "id": 386,
+        "quote": "Đôi khi, bí mật của cuộc sống là không chạy theo thời gian, mà là hãy để thời gian chạy theo bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 387,
+        "quote": "Tình yêu không phải là điều mà bạn tìm kiếm. Nó là điều mà bạn xây dựng.",
+        "author": "Unknown"
+    },
+    {
+        "id": 388,
+        "quote": "Hãy nhớ rằng, mỗi ngày là một cơ hội mới để thay đổi cuộc đời của bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 389,
+        "quote": "Tình yêu không phải là điều dễ dàng nhưng nó luôn đáng giá.",
+        "author": "Unknown"
+    },
+    {
+        "id": 390,
+        "quote": "Cuộc sống là một chuỗi những sự thay đổi. Hãy dùng sự thay đổi này để trưởng thành và mạnh mẽ hơn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 391,
+        "quote": "Tình yêu không phải là vấn đề tìm kiếm người hoàn hảo, mà là vấn đề làm cho người bạn chọn trở thành người hoàn hảo.",
+        "author": "Unknown"
+    },
+    {
+        "id": 392,
+        "quote": "Hãy học từ quá khứ, sống trong hiện tại và hy vọng cho tương lai.",
+        "author": "Unknown"
+    },
+    {
+        "id": 393,
+        "quote": "Đừng bao giờ từ bỏ hy vọng, vì một ngày nào đó, hy vọng sẽ là người duy nhất đưa bạn đến nơi bạn muốn đến.",
+        "author": "Unknown"
+    },
+    {
+        "id": 394,
+        "quote": "Tình yêu là ngôn ngữ mà cả thế giới đều hiểu.",
+        "author": "Unknown"
+    },
+    {
+        "id": 395,
+        "quote": "Sự bình yên không phải là điều bạn tìm kiếm. Nó là điều bạn tạo ra trong tâm hồn của mình.",
+        "author": "Unknown"
+    },
+    {
+        "id": 396,
+        "quote": "Không có con đường nào dẫn đến hạnh phúc. Hạnh phúc là con đường.",
+        "author": "Unknown"
+    },
+    {
+        "id": 397,
+        "quote": "Cuộc sống là một bức tranh, bạn là nghệ sĩ tạo ra nó.",
+        "author": "Unknown"
+    },
+    {
+        "id": 398,
+        "quote": "Tình yêu là điều duy nhất trên thế giới này có thể so sánh với ánh sáng của mặt trời: nó chiếu sáng mọi ngóc ngách, dẫn dắt mọi con đường và đưa ra niềm hy vọng trong tâm hồn của mọi người.",
+        "author": "Unknown"
+    },
+    {
+        "id": 399,
+        "quote": "Hãy để tình yêu và sự hiểu biết lan tỏa như ánh sáng của mặt trời, làm ấm lòng và chiếu sáng cho mọi người xung quanh.",
+        "author": "Unknown"
+    },
+    {
+        "id": 400,
+        "quote": "Sự bí mật của cuộc sống không phải là tìm kiếm hạnh phúc mà là hãy học cách làm hạnh phúc từ những gì bạn có.",
+        "author": "Unknown"
+    },
+    {
+        "id": 401,
+        "quote": "Tình bạn sinh ra tại thời điểm một người nói với người khác: 'Ồ, cậu cũng vậy sao? Tớ đã nghĩ là chỉ mình tớ thôi.'",
+        "author": "C.S. Lewis"
+    },
+    {
+        "id": 402,
+        "quote": "Một người bạn thật sự là người đi bên cạnh khi thế giới bỏ bạn mà đi.",
+        "author": "Walter Winchell"
+    },
+    {
+        "id": 403,
+        "quote": "Tình bạn là loại keo duy nhất có thể giữ thế giới lại với nhau.",
+        "author": "Woodrow Wilson"
+    },
+    {
+        "id": 404,
+        "quote": "Tình bạn là thứ khó nhất trên thế giới phải giải thích. Đó không phải là điều bạn học trong trường. Nhưng nếu bạn chưa học được ý nghĩa của tình bạn, thì bạn chưa học được gì cả.",
+        "author": "Muhammad Ali"
+    },
+    {
+        "id": 405,
+        "quote": "Một người bạn là người biết tất cả về bạn nhưng vẫn yêu bạn.",
+        "author": "Elbert Hubbard"
+    },
+    {
+        "id": 406,
+        "quote": "Quà tặng tuyệt vời nhất của cuộc sống là tình bạn, và tôi đã nhận được nó.",
+        "author": "Hubert H. Humphrey"
+    },
+    {
+        "id": 407,
+        "quote": "Người bạn tốt nhất của tôi là người khiến tôi trở nên tốt nhất.",
+        "author": "Henry Ford"
+    },
+    {
+        "id": 408,
+        "quote": "Một người bạn là người tin tưởng vào bạn khi bạn đã ngừng tin vào chính mình.",
+        "author": "Unknown"
+    },
+    {
+        "id": 409,
+        "quote": "Một người bạn đích thực là người ở bên bạn khi họ thà rằng ở bất cứ nơi nào khác.",
+        "author": "Len Wein"
+    },
+    {
+        "id": 410,
+        "quote": "Bạn bè là gia đình mà bạn chọn.",
+        "author": "Jess C. Scott"
+    },
+    {
+        "id": 411,
+        "quote": "Một người bạn là người đem lại điều tốt đẹp nhất trong bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 412,
+        "quote": "Một người bạn là người biết lắng nghe cả tiếng nói của trái tim bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 413,
+        "quote": "Tình bạn là cánh cửa mở ra khi cuộc đời đóng lại trước mặt bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 414,
+        "quote": "Một người bạn đích thực không phải là ai đó mà bạn biết ở cạnh bạn, mà là ai đó mà bạn có thể ngồi im lặng bên cạnh, và sau đó cả hai vẫn cảm thấy hạnh phúc vô cùng.",
+        "author": "Unknown"
+    },
+    {
+        "id": 415,
+        "quote": "Tình bạn là giọt nước mắt của niềm vui và khúc nhạc của cuộc sống.",
+        "author": "Unknown"
+    },
+    {
+        "id": 416,
+        "quote": "Một người bạn là người biết tất cả về bạn và vẫn yêu bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 417,
+        "quote": "Tình bạn là ngôn ngữ mà cả thế giới đều hiểu.",
+        "author": "Unknown"
+    },
+    {
+        "id": 418,
+        "quote": "Tình bạn không phải là người mà bạn có thể cười cùng, mà là người mà bạn có thể khóc cùng.",
+        "author": "Unknown"
+    },
+    {
+        "id": 419,
+        "quote": "Một người bạn đích thực là người biết tất cả về bạn, và vẫn chấp nhận bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 420,
+        "quote": "Tình bạn là sức mạnh khi bạn cảm thấy yếu đuối, niềm vui khi bạn buồn bã.",
+        "author": "Unknown"
+    },
+    {
+        "id": 421,
+        "quote": "Một người bạn thực sự là người giúp bạn tin vào bản thân mình.",
+        "author": "Unknown"
+    },
+    {
+        "id": 422,
+        "quote": "Tình bạn không phải là vấn đề kết nối ở nơi xa, mà là vấn đề ở tâm trí.",
+        "author": "Unknown"
+    },
+    {
+        "id": 423,
+        "quote": "Tình bạn là sức mạnh khi bạn cảm thấy yếu đuối, niềm vui khi bạn buồn bã.",
+        "author": "Unknown"
+    },
+    {
+        "id": 424,
+        "quote": "Tình bạn thực sự là khi bạn có thể mất mát và vẫn cười với nhau.",
+        "author": "Unknown"
+    },
+    {
+        "id": 425,
+        "quote": "Một người bạn đích thực là người đi qua cuộc đời của bạn khi thế giới chắc chắn sẽ rời bỏ bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 426,
+        "quote": "Tình bạn là một hình ảnh về sự chia sẻ, hài hòa, và hiểu biết.",
+        "author": "Unknown"
+    },
+    {
+        "id": 427,
+        "quote": "Một người bạn đích thực không bao giờ để bạn một mình khi bạn cảm thấy đau khổ.",
+        "author": "Unknown"
+    },
+    {
+        "id": 428,
+        "quote": "Tình bạn là khi bạn không cần phải nói một lời và cả hai vẫn hiểu lẫn nhau.",
+        "author": "Unknown"
+    },
+    {
+        "id": 429,
+        "quote": "Một người bạn đích thực sẽ đi cùng bạn trong bóng tối, nhưng sẽ chói lọi sáng hơn một người bạn khi bạn ở trong ánh sáng.",
+        "author": "Unknown"
+    },
+    {
+        "id": 430,
+        "quote": "Tình bạn là sự hiểu biết, là lòng tin, là sự chia sẻ.",
+        "author": "Unknown"
+    },
+    {
+        "id": 431,
+        "quote": "Một người bạn là người có thể biến một ngày tốt đẹp thành một ngày tuyệt vời.",
+        "author": "Unknown"
+    },
+    {
+        "id": 432,
+        "quote": "Tình bạn là điều duy nhất giữa hai người mà mỗi người không hề phản bội lẫn nhau.",
+        "author": "Unknown"
+    },
+    {
+        "id": 433,
+        "quote": "Một người bạn là ai đó nhớ về bạn khi mọi người quên mất.",
+        "author": "Unknown"
+    },
+    {
+        "id": 434,
+        "quote": "Tình bạn thực sự không phải là chọn ai đó vì tươi đẹp, mà là tìm ra tươi đẹp trong người bạn đã chọn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 435,
+        "quote": "Một người bạn đích thực sẽ giữ bí mật của bạn và chắc chắn rằng bạn cũng làm vậy.",
+        "author": "Unknown"
+    },
+    {
+        "id": 436,
+        "quote": "Tình bạn thực sự là khi bạn cảm thấy mình có thể tự do trước người bạn của mình.",
+        "author": "Unknown"
+    },
+    {
+        "id": 437,
+        "quote": "Một người bạn thực sự không bao giờ phán xét bạn và luôn luôn ở bên cạnh bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 438,
+        "quote": "Tình bạn là khi bạn cảm thấy hạnh phúc mỗi khi bạn nhìn thấy người bạn của mình.",
+        "author": "Unknown"
+    },
+    {
+        "id": 439,
+        "quote": "Một người bạn đích thực là người biết hướng dẫn bạn đến đích đến của mình.",
+        "author": "Unknown"
+    },
+    {
+        "id": 440,
+        "quote": "Tình bạn không phải là một câu chuyện. Nó là cuộc sống.",
+        "author": "Unknown"
+    },
+    {
+        "id": 441,
+        "quote": "Một người bạn thực sự là người hiểu bạn ngay cả khi bạn im lặng.",
+        "author": "Unknown"
+    },
+    {
+        "id": 442,
+        "quote": "Tình bạn là khi bạn cảm thấy mình thực sự thuộc về nhau.",
+        "author": "Unknown"
+    },
+    {
+        "id": 443,
+        "quote": "Một người bạn thực sự là người nói với bạn những điều mà bạn cần nghe, không phải những điều mà bạn muốn nghe.",
+        "author": "Unknown"
+    },
+    {
+        "id": 444,
+        "quote": "Tình bạn là khi bạn có thể khóc cùng nhau và cười cùng nhau.",
+        "author": "Unknown"
+    },
+    {
+        "id": 445,
+        "quote": "Một người bạn thực sự không phải là người chỉ biết tự vui mình mà là người giúp bạn vui vẻ.",
+        "author": "Unknown"
+    },
+    {
+        "id": 446,
+        "quote": "Tình bạn thực sự là khi bạn biết mình có thể tin tưởng vào người bạn của mình.",
+        "author": "Unknown"
+    },
+    {
+        "id": 447,
+        "quote": "Một người bạn đích thực không bao giờ để bạn đi một mình trên con đường khó khăn của cuộc đời.",
+        "author": "Unknown"
+    },
+    {
+        "id": 448,
+        "quote": "Tình bạn là khi bạn cảm thấy mình không còn đơn độc.",
+        "author": "Unknown"
+    },
+    {
+        "id": 449,
+        "quote": "Một người bạn thực sự là người không bao giờ từ bỏ bạn, dù có thế giới này đang nghịch cảnh với họ.",
+        "author": "Unknown"
+    },
+    {
+        "id": 450,
+        "quote": "Tình bạn là khi bạn cảm thấy mình là chính mình khi ở bên cạnh người bạn của mình.",
+        "author": "Unknown"
+    },
+    {
+        "id": 451,
+        "quote": "Cuộc sống không phải là việc tìm kiếm bản thân mình. Nó là việc tạo ra bản thân mình.",
+        "author": "George Bernard Shaw"
+    },
+    {
+        "id": 452,
+        "quote": "Cuộc sống là một cuộc hành trình, không phải điểm đến.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "id": 453,
+        "quote": "Hãy sống mỗi ngày với ý nghĩa. Đôi khi, ý nghĩa đến từ những điều nhỏ nhặt nhất.",
+        "author": "Unknown"
+    },
+    {
+        "id": 454,
+        "quote": "Đừng sống để tồn tại, hãy sống để làm cho mỗi ngày trở nên ý nghĩa.",
+        "author": "Unknown"
+    },
+    {
+        "id": 455,
+        "quote": "Cuộc sống không phải là chờ đợi mưa ngừng rơi, mà là học cách vui vẻ đùa giỡn dưới cơn mưa.",
+        "author": "Unknown"
+    },
+    {
+        "id": 456,
+        "quote": "Hãy sống mỗi ngày như thể đó là ngày cuối cùng của cuộc đời bạn, và học hỏi mỗi ngày như thể bạn sẽ sống mãi mãi.",
+        "author": "Mahatma Gandhi"
+    },
+    {
+        "id": 457,
+        "quote": "Cuộc sống là một hành trình không phải bắt đầu từ điểm xuất phát mà từ điểm chấm dứt.",
+        "author": "Martin Luther King Jr."
+    },
+    {
+        "id": 458,
+        "quote": "Hãy sống một cuộc sống ý nghĩa, không một cuộc sống dựa trên sự tiếc nuối.",
+        "author": "Steve Maraboli"
+    },
+    {
+        "id": 459,
+        "quote": "Đừng đếm ngày, hãy làm cho mỗi ngày đều có ý nghĩa.",
+        "author": "Unknown"
+    },
+    {
+        "id": 460,
+        "quote": "Cuộc sống không phải là về việc chờ đợi cơn bão qua đi, mà là học cách nhảy múa dưới cơn bão.",
+        "author": "Vivian Greene"
+    },
+    {
+        "id": 461,
+        "quote": "Mục đích của cuộc sống không phải là để tồn tại, mà là để sống ý nghĩa.",
+        "author": "Unknown"
+    },
+    {
+        "id": 462,
+        "quote": "Cuộc sống không phải là về việc tìm kiếm bản thân mình, mà là việc tạo ra bản thân mình.",
+        "author": "George Bernard Shaw"
+    },
+    {
+        "id": 463,
+        "quote": "Hãy tạo ra cuộc sống mà bạn muốn sống, đừng để cuộc sống tạo ra bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 464,
+        "quote": "Mục đích của cuộc sống không phải là để kiếm tiền, mà là để sống một cuộc sống có ý nghĩa.",
+        "author": "Unknown"
+    },
+    {
+        "id": 465,
+        "quote": "Cuộc sống không phải là về việc chạy theo thời gian, mà là về việc tận hưởng từng khoảnh khắc.",
+        "author": "Unknown"
+    },
+    {
+        "id": 466,
+        "quote": "Cuộc sống là một bức tranh, hãy là người tạo ra bức tranh đẹp nhất.",
+        "author": "Unknown"
+    },
+    {
+        "id": 467,
+        "quote": "Hãy sống cuộc sống mà bạn muốn nhớ, không phải một cuộc sống mà bạn muốn quên đi.",
+        "author": "Unknown"
+    },
+    {
+        "id": 468,
+        "quote": "Cuộc sống không phải là một trò chơi may rủi, mà là một cuộc phiêu lưu mà bạn có thể kiểm soát được.",
+        "author": "Unknown"
+    },
+    {
+        "id": 469,
+        "quote": "Hãy sống một cuộc sống ý nghĩa, không một cuộc sống bị ràng buộc bởi người khác.",
+        "author": "Unknown"
+    },
+    {
+        "id": 470,
+        "quote": "Cuộc sống không phải là việc tìm kiếm ý nghĩa, mà là việc tạo ra ý nghĩa.",
+        "author": "Unknown"
+    },
+    {
+        "id": 471,
+        "quote": "Hãy sống mỗi ngày với ý nghĩa và mục đích, vì mỗi ngày không bao giờ lặp lại.",
+        "author": "Unknown"
+    },
+    {
+        "id": 472,
+        "quote": "Cuộc sống không phải là việc đếm ngày, mà là việc làm mỗi ngày trở nên đáng nhớ.",
+        "author": "Unknown"
+    },
+    {
+        "id": 473,
+        "quote": "Hãy sống mỗi ngày như thể đó là cuộc phiêu lưu cuối cùng của cuộc đời bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 474,
+        "quote": "Cuộc sống không phải là về việc sống lâu, mà là về việc sống ý nghĩa.",
+        "author": "Unknown"
+    },
+    {
+        "id": 475,
+        "quote": "Hãy sống mỗi ngày với tinh thần biết ơn và lòng kiên nhẫn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 476,
+        "quote": "Cuộc sống không phải là về việc kiếm được bao nhiêu tiền, mà là về việc để lại bao nhiêu ấn tượng.",
+        "author": "Unknown"
+    },
+    {
+        "id": 477,
+        "quote": "Hãy sống mỗi ngày với ý nghĩa, đam mê và trái tim mở rộng.",
+        "author": "Unknown"
+    },
+    {
+        "id": 478,
+        "quote": "Cuộc sống không phải là việc đếm số tiền bạn có, mà là việc đếm số ngày bạn đã sống ý nghĩa.",
+        "author": "Unknown"
+    },
+    {
+        "id": 479,
+        "quote": "Hãy sống mỗi ngày với tinh thần lạc quan và niềm tin.",
+        "author": "Unknown"
+    },
+    {
+        "id": 480,
+        "quote": "Cuộc sống không phải là về việc kiếm tiền, mà là về việc kiếm được trải nghiệm.",
+        "author": "Unknown"
+    },
+    {
+        "id": 481,
+        "quote": "Hãy sống mỗi ngày với trái tim biết ơn và tâm hồn bình yên.",
+        "author": "Unknown"
+    },
+    {
+        "id": 482,
+        "quote": "Cuộc sống không phải là việc kiếm được bao nhiêu thứ, mà là việc làm gì với những thứ bạn đã có.",
+        "author": "Unknown"
+    },
+    {
+        "id": 483,
+        "quote": "Hãy sống mỗi ngày với tâm trạng lạc quan và nhiệt huyết.",
+        "author": "Unknown"
+    },
+    {
+        "id": 484,
+        "quote": "Cuộc sống không phải là việc nhìn về phía trước, mà là việc sống trong hiện tại.",
+        "author": "Unknown"
+    },
+    {
+        "id": 485,
+        "quote": "Hãy sống mỗi ngày với sự tự tin và kiên định.",
+        "author": "Unknown"
+    },
+    {
+        "id": 486,
+        "quote": "Cuộc sống không phải là về việc sống lâu, mà là về việc sống trọn vẹn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 487,
+        "quote": "Hãy sống mỗi ngày với sự kiên nhẫn và lòng kiên trì.",
+        "author": "Unknown"
+    },
+    {
+        "id": 488,
+        "quote": "Cuộc sống không phải là việc kiếm được bao nhiêu, mà là việc tạo ra điều gì đó ý nghĩa.",
+        "author": "Unknown"
+    },
+    {
+        "id": 489,
+        "quote": "Hãy sống mỗi ngày với trái tim mở rộng và lòng nhân từ.",
+        "author": "Unknown"
+    },
+    {
+        "id": 490,
+        "quote": "Cuộc sống không phải là về việc kiếm được bao nhiêu, mà là việc trải nghiệm bao nhiêu.",
+        "author": "Unknown"
+    },
+    {
+        "id": 491,
+        "quote": "Hãy sống mỗi ngày với lòng biết ơn và lòng nhân ái.",
+        "author": "Unknown"
+    },
+    {
+        "id": 492,
+        "quote": "Cuộc sống không phải là việc sống đến hết, mà là việc sống đáng giá.",
+        "author": "Unknown"
+    },
+    {
+        "id": 493,
+        "quote": "Hãy sống mỗi ngày với lòng trung thành và lòng dũng cảm.",
+        "author": "Unknown"
+    },
+    {
+        "id": 494,
+        "quote": "Cuộc sống không phải là về việc kiếm được bao nhiêu, mà là việc làm gì với những gì bạn có.",
+        "author": "Unknown"
+    },
+    {
+        "id": 495,
+        "quote": "Hãy sống mỗi ngày với sự biết ơn và lòng tin.",
+        "author": "Unknown"
+    },
+    {
+        "id": 496,
+        "quote": "Cuộc sống không phải là việc kiếm được bao nhiêu tiền, mà là việc làm gì với cuộc sống của bạn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 497,
+        "quote": "Hãy sống mỗi ngày với lòng nhân ái và lòng trắc ẩn.",
+        "author": "Unknown"
+    },
+    {
+        "id": 498,
+        "quote": "Cuộc sống không phải là về việc sống mãi mãi, mà là về việc sống ý nghĩa.",
+        "author": "Unknown"
+    },
+    {
+        "id": 499,
+        "quote": "Hãy sống mỗi ngày với trái tim rộng lượng và tâm hồn thanh thản.",
+        "author": "Unknown"
+    },
+    {
+        "id": 500,
+        "quote": "Cuộc sống không phải là về việc sống lâu, mà là về việc sống hạnh phúc.",
+        "author": "Unknown"
     }
 ]
   
