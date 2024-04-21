@@ -50,30 +50,6 @@ window.onload = function() {
   window.addEventListener('load', lockScroll);
 };
 
-document.getElementById('captureButton').addEventListener('click', function() {
-  document.getElementById('captureButton').style.display = 'none';
-  document.getElementById('getRandomQuoteButton').style.display = 'none';
-  document.getElementById('github').style.display = 'none';
-  document.getElementById('donate').style.display = 'none';
-
-  setTimeout(function() {
-      var now = new Date();
-      var timestamp = now.getHours() + '-' + now.getMinutes() + '-' + now.getSeconds() + '_' + now.getDate() + '-' + (now.getMonth() + 1) + '-' + now.getFullYear();
-      
-      html2canvas(document.body).then(function(canvas) {
-          var link = document.createElement('a');
-          link.download = 'LoveMessage_' + timestamp + '.png';
-          link.href = canvas.toDataURL();
-          link.click();
-      });
-
-      document.getElementById('captureButton').style.display = 'block';
-      document.getElementById('getRandomQuoteButton').style.display = 'block';
-      document.getElementById('github').style.display = 'block';
-      document.getElementById('donate').style.display = 'block';
-  }, 500);
-});
-
 var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
 var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
     return new bootstrap.Tooltip(tooltipTriggerEl)
@@ -85,5 +61,38 @@ function openSourceCode() {
   if (confirmation) {
     var url = 'https://github.com/hoaphamduc/LoveMessage';
     window.open(url, '_blank');
+  }
+}
+
+async function captureScreen() {
+  try {
+    const stream = await navigator.mediaDevices.getDisplayMedia({ preferCurrentTab: true });
+    const video = document.createElement("video");
+
+    video.addEventListener("loadedmetadata", async () => {
+      const canvas = document.createElement("canvas");
+      const ctx = canvas.getContext("2d");
+
+      canvas.width = video.videoWidth;
+      canvas.height = video.videoHeight;
+
+      video.play();
+      ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+      stream.getVideoTracks()[0].stop();
+
+      const imageDataURL = canvas.toDataURL('image/png');
+      const blobData = await (await fetch(imageDataURL)).blob();
+
+      var now = new Date();
+      var timestamp = now.getHours() + '-' + now.getMinutes() + '-' + now.getSeconds() + '_' + now.getDate() + '-' + (now.getMonth() + 1) + '-' + now.getFullYear();
+
+      const link = document.createElement('a');
+      link.href = URL.createObjectURL(blobData);
+      link.download = 'LoveMessage_' + timestamp + '.png';
+      link.click();
+    });
+    video.srcObject = stream;
+  } catch (error) {
+    console.log(error);
   }
 }
